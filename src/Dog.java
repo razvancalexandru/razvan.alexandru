@@ -1,3 +1,4 @@
+/*
 public class Dog {
     int size;
 
@@ -5,9 +6,9 @@ public class Dog {
         if (size > 60){
             bark(times, "Woof!");
         }else if (size > 14){
-            bark(times, "Ruff!")
-        }else{
-            bark(times, "Yip!")
+            bark(times, "Ruff!");
+        }else {
+            bark(times, "Yip!");
         }
     }
 
@@ -17,3 +18,4 @@ public class Dog {
         }
     }
 }
+*/
